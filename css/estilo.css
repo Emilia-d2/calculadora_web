@@ -1,0 +1,228 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    background: grey;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.form {
+    width: 500px;
+    height: 420px;
+    background: #fff;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}
+
+.formcontrol {
+    margin: 5px;
+}
+
+#inputTexto {
+    border-radius: 10px;
+    margin-top: 50px;
+    text-align: end;
+    width: 200px;
+    height: 30px;
+}
+
+#btn0 {
+    border-radius: 10px;
+    background-color: rgb(206, 204, 204);
+    border-color: black;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    outline: none;
+    transition: 0.2s all;
+
+}
+
+#btn1 {
+    border-radius: 10px;
+    background-color: rgb(206, 204, 204);
+    border-color: black;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    outline: none;
+    transition: 0.2s all;
+
+}
+
+#btn2 {
+    border-radius: 10px;
+    background-color: rgb(206, 204, 204);
+    border-color: black;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    outline: none;
+    transition: 0.2s all;
+
+}
+
+#btn3 {
+    border-radius: 10px;
+    background-color: rgb(206, 204, 204);
+    border-color: black;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    outline: none;
+    transition: 0.2s all;
+
+}
+
+#btn4 {
+    border-radius: 10px;
+    background-color: rgb(206, 204, 204);
+    border-color: black;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    outline: none;
+    transition: 0.2s all;
+
+}
+
+#btn5 {
+    border-radius: 10px;
+    background-color: rgb(206, 204, 204);
+    border-color: black;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    outline: none;
+    transition: 0.2s all;
+
+}
+
+#btn6 {
+    border-radius: 10px;
+    background-color: rgb(206, 204, 204);
+    border-color: black;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    outline: none;
+    transition: 0.2s all;
+
+}
+
+#btn7 {
+    border-radius: 10px;
+    background-color: rgb(206, 204, 204);
+    border-color: black;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    outline: none;
+    transition: 0.2s all;
+
+}
+
+#btn8 {
+    border-radius: 10px;
+    background-color: rgb(206, 204, 204);
+    border-color: black;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    outline: none;
+    transition: 0.2s all;
+
+}
+
+#btn9 {
+    border-radius: 10px;
+    background-color: rgb(206, 204, 204);
+    border-color: black;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    outline: none;
+    transition: 0.2s all;
+}
+
+#btnSoma {
+    border-radius: 10px;
+    background-color: rgb(206, 204, 204);
+    border-color: black;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    outline: none;
+    transition: 0.2s all;
+}
+
+#btnSubtracao {
+    border-radius: 10px;
+    background-color: rgb(206, 204, 204);
+    border-color: black;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    outline: none;
+    transition: 0.2s all;
+}
+
+#btnDivisao {
+    border-radius: 10px;
+    background-color: rgb(206, 204, 204);
+    border-color: black;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    outline: none;
+    transition: 0.2s all;
+}
+
+#btnMultiplicacao {
+    border-radius: 10px;
+    background-color: rgb(206, 204, 204);
+    border-color: black;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    outline: none;
+    transition: 0.2s all;
+}
+
+#btnIgual {
+    border-radius: 10px;
+    background-color: rgb(206, 204, 204);
+    border-color: black;
+    width: 120px;
+    height: 30px;
+    cursor: pointer;
+    outline: none;
+    transition: 0.2s all;
+}
+
+#btnVirgula {
+    border-radius: 10px;
+    background-color: rgb(206, 204, 204);
+    border-color: black;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    outline: none;
+    transition: 0.2s all;
+}
+
+#btnReset {
+    border-radius: 10px;
+    background-color: rgb(206, 204, 204);
+    border-color: black;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    outline: none;
+    transition: 0.2s all;
+}
